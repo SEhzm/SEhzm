@@ -1,6 +1,6 @@
 -
 
-- <h1 align="center">Hi 👋, I'm HeZiMing(何梓铭)</h1>
+- <h1 align="center">Hi 👋, I'm xiaoHe</h1>
   <h3 align="center">A passionate FullStackDeveloper from China</h3>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehzm&label=Profile%20views&color=0e75b6&style=flat" alt="sehzm" /> </p>
